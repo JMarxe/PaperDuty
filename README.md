@@ -60,8 +60,6 @@ Ultimately, on average, the organizations interviewed by IDC realized the follow
 
 When you add it all up, these PagerDuty enterprise customers averaged $3.56 million in annual business value savings ($13,100 per 100 IT users per year), amounting to what IDC refers to as "a substantial three-year ROI of 731%" with a payback period of only 4.3 months.1
 
-For a full review of IDC's research results and analysis, including additional customer insights, visit [www.pagerduty.com/resources/reports/idc-business-value/](http://www.pagerduty.com/resources/reports/idc-business-value/).
-
 _1. "PagerDuty Helps Organizations Optimize Their Digital Operations Management," IDC, Doc #US45630719, November 2019._
 
 - **Break-even point (estimated)**
@@ -80,23 +78,11 @@ PagerDuty provides different ways of notifying the user: Via email, SMS, or call
 
 When looking at other companies, PagerDuty had better pricing compared to other companies like Dynatrace, xMatters, Freshservice, Jira Service Management, Datadog, ServiceNow, and many more.
 
-### [Top 10 PagerDuty Alternatives 2022 - G2](https://www.g2.com/products/pagerduty/competitors/alternatives)
-
-[https://www.g2.com/products/pagerduty/competitors/alternatives](https://www.g2.com/products/pagerduty/competitors/alternatives)
-
-[**https://www.getapp.com/it-management-software/a/pagerduty/alternatives/**](https://www.getapp.com/it-management-software/a/pagerduty/alternatives/)
-
 - **Consider the challenges and drivers.**
-
-[**https://www.getapp.com/it-management-software/a/pagerduty/reviews/**](https://www.getapp.com/it-management-software/a/pagerduty/reviews/)
 
 - **On-call management is a critical responsibility to ensure 24/7 customer support. However, employees on-call are usually working outside of normal business hours which can burn out employees. If a team takes on the burden of resolving incidents, they won't have the capacity to do their day jobs as well. It is unfair to have employees work normal business hours as well as after hours. Thus, it is challenging to have employees take on the role of maintaining the services they build. Not all employees are motivated by money, thus offering more money to developers to work-after hours may not be effective.**
 
 - **Innovative features: why is it an innovation? What is new about it?**
-
-[**https://www.pagerduty.com/blog/category/innovation/**](https://www.pagerduty.com/blog/category/innovation/)
-
-[**https://www.pagerduty.com/blog/pagerduty-ecosystem-highlights-at-aws-reinvent-2022-check-out-our-partnerships-aws-integrations-and-win-prizes/**](https://www.pagerduty.com/blog/pagerduty-ecosystem-highlights-at-aws-reinvent-2022-check-out-our-partnerships-aws-integrations-and-win-prizes/)
 
 - **Defensible in a management meeting (Provide some statistics, financial and nonfinancial evidence, and proof to defend the technology in front of the management team. For instance, providing quantitative data to show how technology can reduce errors and improve productivity?)**
 
@@ -125,37 +111,6 @@ Incident-Related Benefits Driving ROI:
 - **Adoption and implementation issues**
 
 - Teams may have trouble adopting PagerDuty as it requires clearly defined responsibilities across teams. It's most logical to have developers take on responsibility for the products that they build, as they have most of the knowledge for that specific product. However, this leads to an unfair distribution of responsibilities leading to a schedule where employees can't completely detach from work. Additionally, shifting the responsibility to someone who is unfamiliar with the system may result in a longer resolution period.
-
-**Important Note:**
-
-- Please read the final project file on Canvas (Module 15) to get more detailed information about this assignment.
-- In the end, you need to provide substantial evidence to convince the company or investor to use the new technology.
-- You need to **confirm** the technology which you want to study with me by email to get approval.
-- The PowerPoints of the final project should be submitted to the Assignment Dropbox after the presentation.
-- Length of Presentation: 15- 20 min
-- All members of a team should present.
-- Please read the art of the pitch slides to learn 25 hints to win over investors.
-
-**Where to get some information about new technology?**
-
-1. As discussed in chapter 5 (innovation management), one interesting website is the MIT technology review to find out about the top 10 Breakthrough Technologies. You can also find new technologies from previous years (up to 2017) because some of them are still NEW.
-
-Here is the link:
-
-[https://www.technologyreview.com/10-breakthrough-technologies/2020/ Links to an external site.](https://www.technologyreview.com/10-breakthrough-technologies/2020/)
-
-Note: you can use other new technologies which are not mentioned on this website.
-
-2. Another source would be the [world economic forum Links to an external site.](https://www.weforum.org/). You can read "FEATURED TOPICS" and "OTHER TOPICS" to get more information and insights (through articles and videos) about technologies that will impact world trade, such as Artificial Intelligence (AI) and machine learning, 3D printing, Autonomous robotics, 5G wireless, Cybersecurity, the Metaverse, Blockchain, and other Emerging technologies.
-
-3. Visit [https://gigadgets.com/ Links to an external site.](https://gigadgets.com/)to see some ideas for future technology and gadgets.
-
-Including the following items can help you get all the points:
-
-- Define the innovation and explain its new features (why it is new? what are the main functions?): 25 points
-- Cost-benefit analysis (why it is profitable?): 25 points
-- Pitch this idea to a company and provide some defensible evidence and proof to convince the managers (financial and non-financial): 25points
-- Highlight the requirements, infrastructure, as well as adoption, and implementation barriers and drivers (if the company wants to invest in the innovation): 25 points
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/114123232/221871423-94b68537-ea74-4778-af36-5780c36140a3.png" height="80%" width="80%"/>
