@@ -8,9 +8,7 @@
 
 It is required to develop a business case for an information technology **innovation** of their choice. In this assignment, the main objective is to explain the applications and features of a NEW technology to a business investor or a company and defend it using some criteria. The required criteria and items for the new technology presentation:
 
-- **Do a Feasibility study (Cost and benefit analysis)**
-
-[**https://www.pagerduty.com/blog/7-benefits-of-incident-management-in-supporting-applications/**](https://www.pagerduty.com/blog/7-benefits-of-incident-management-in-supporting-applications/)
+- **Feasibility study (Cost and benefit analysis)**
 
 - **Why is it a reasonable investment? For instance, is managerial revenue more than costs?**
 
